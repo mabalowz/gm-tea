@@ -13,7 +13,7 @@ export default function Home() {
         "https://tea-sepolia.g.alchemy.com/v2/Wa-bUwSDb2nujeYWyIZ9eHK3XXsxiM8j"
     ];
 
-    const contractAddress = "0x17fC56B4D518983cFD81b459D04E952D67BFC101";
+    const contractAddress = "0xB4edA1fA0476405fE8f4BCc6F35D5D2d4A456775";
 
     const abi = [
         "function gm() external",
