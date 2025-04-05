@@ -113,7 +113,7 @@ export default function Home() {
 
             {/* === Footer === */}
             <div className="text-xs mt-8 opacity-70 text-center transition-all hover:opacity-100 hover:scale-105">
-                Built by <a href="https://github.com/H15S" target="_blank" className="underline hover:text-pink-400">H15S</a>
+                Built by <a href="https://github.com/mabalowz" target="_blank" className="underline hover:text-pink-400">H15S</a>
             </div>
 
             <p>{status}</p>
